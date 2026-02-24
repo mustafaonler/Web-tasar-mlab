@@ -27,7 +27,8 @@ Vite + React + TypeScript kullanilarak olusturulmustur.
 <img width="920" height="636" alt="image" src="https://github.com/user-attachments/assets/ec3142ff-730f-47d3-bf4f-4ee861bcd808" />
 
 
-![WhatsApp Image 2026-02-24 at 21 34 29](https://github.com/user-attachments/assets/37c6aba7-3646-4261-8615-6e5e208c96a5)
+![Uploading WhatsApp Image 2026-02-24 at 21.34.29.jpeg…]()
+
 
 
 
