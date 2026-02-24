@@ -1,4 +1,4 @@
-u proje, **Web Geliştirme Laboratuvarı** kapsamında modern web teknolojilerini ve versiyon kontrol sistemlerini deneyimlemek amacıyla oluşturulmuştur.
+Bu proje, **Web Geliştirme Laboratuvarı** kapsamında modern web teknolojilerini ve versiyon kontrol sistemlerini deneyimlemek amacıyla oluşturulmuştur.
 
 ---
 
