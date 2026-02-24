@@ -1,4 +1,3 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/852c4940-391d-4f2b-91e1-a283c4bb2d4c" />
 # Web LAB-1- Hello Project
 
 ## Hakkinda
